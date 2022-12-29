@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Simple Discord Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [OrangeBot -> Discord Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 YouTube Videos</h2>
 
