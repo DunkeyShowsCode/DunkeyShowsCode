@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Simple Discord Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Techware Fits to fall asleep too..](https://www.youtube.com/watch?v=qCVtkvJ5d9I&t=173s)
 - [Dunkey's Shoe Collection - Fall 2020](https://www.youtube.com/watch?v=1EHMKiwJKO0&t=336s)
