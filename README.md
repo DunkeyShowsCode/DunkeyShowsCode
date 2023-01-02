@@ -2,10 +2,11 @@
 
 <h2>Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>PLACEHOLDER</b>
+  - PLACEHOLDER
 - <b>Python</b>
   - [OrangeBot -> Discord Bot](https://github.com/DunkeyShowsCode/OrangeBot---Discord-Bot)
+  - [Package Delivery Application (DataStructures & Algorithms](https://github.com/DunkeyShowsCode/Package-pathfinding-algorithm)
 
 <h2>📺 YouTube Videos</h2>
 
