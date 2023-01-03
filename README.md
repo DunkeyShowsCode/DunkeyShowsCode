@@ -4,6 +4,8 @@
 
 - <b>Java </b>
   - [Parlin Noise Terrain](https://github.com/DunkeyShowsCode/Perlin_Noise-Terrain)
+- <b>C++</b>
+  - [Rotating Cubes ASCII](https://github.com/DunkeyShowsCode/Rotating-Cubes)
 - <b>Python</b>
   - [OrangeBot -> Discord Bot](https://github.com/DunkeyShowsCode/OrangeBot---Discord-Bot)
   - [Package Delivery Application (DataStructures & Algorithms](https://github.com/DunkeyShowsCode/Package-pathfinding-algorithm)
