@@ -2,8 +2,8 @@
 
 <h2>Projects:</h2>
 
-- <b>PLACEHOLDER</b>
-  - PLACEHOLDER
+- <b>Java </b>
+  - [Parlin Noise Terrain](https://github.com/DunkeyShowsCode/Perlin_Noise-Terrain)
 - <b>Python</b>
   - [OrangeBot -> Discord Bot](https://github.com/DunkeyShowsCode/OrangeBot---Discord-Bot)
   - [Package Delivery Application (DataStructures & Algorithms](https://github.com/DunkeyShowsCode/Package-pathfinding-algorithm)
